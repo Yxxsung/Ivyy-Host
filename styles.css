@@ -2,12 +2,12 @@ mobile-id{display: inline;}
 
 desktop-id{display:none;}
 
-body {color: #000000; background-color: #A7A2A1; font-family: veranda; margin: 0;}
+body {color: #000000; background-color: #ffffff; font-family: veranda; margin: 0;}
 
-h1{color: #9c1616; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+h1{color: #14782f; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     font-size: 36px; text-align: center;}
 
-h2{color: #9c1616; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+h2{color: #14782f; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     font-size: 24px; text-align: center;}
 
 p{color: #000000; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
@@ -26,7 +26,7 @@ clear: both;
 display: table;
 }
 
-nav{color: #bb1a1a; font-size: 20;}
+nav{color: #179933; font-size: 20;}
 
 ul{font-size: 19px; color: #000000; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; align-self: center;}
 
