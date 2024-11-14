@@ -4,7 +4,7 @@ desktop-id{display:none;}
 
 body {
     color: #000000; 
-    background-color: #ffffff; 
+    background-color: #c72222; 
     font-family: veranda; 
     margin: 0;
     margin: 0px;
@@ -36,7 +36,7 @@ p{color: #000000; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, s
     background-color: #14782f(0, 0%, 25%);
     padding: 0%;
     margin: 0%;
-    /*overflow: hidden;*/
+    overflow: hidden;
 }
 
 .navbar a{
